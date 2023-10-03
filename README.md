@@ -1,5 +1,7 @@
 # React Native Expense Tracker App
 
+<img src='meals.gif' width='300'  alt='App Screen'>
+
 ## Description
 
 The Meals app is a mobile application that helps users discover and manage their favorite meal recipes. 
