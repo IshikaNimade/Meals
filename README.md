@@ -1,4 +1,4 @@
-# React Native Expense Tracker App
+# React Native Meals App
 
 <img src='meals.gif' width='300'  alt='App Screen'>
 
